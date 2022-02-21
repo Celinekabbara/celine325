@@ -1,7 +1,3 @@
-from cgi import test
-from email.mime import base
-from gettext import install
-from turtle import color, title
 import numpy as np
 import pandas as pd
 import streamlit as st
